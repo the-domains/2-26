@@ -1,0 +1,28 @@
+name: '2.26'
+favicon: null
+layout_spectrum: 0.6845354109536856
+typography_spectrum: 0.4278216266538948
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5752219022251666
+  lightness: 0.9420471410267055
+  saturation: 0.18738471227698028
+  rhythmicContrast: 0.21958711557090282
+purpose: []
